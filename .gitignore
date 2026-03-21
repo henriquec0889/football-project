@@ -1,0 +1,21 @@
+# Credenciais - NUNCA subir isso
+.env
+
+# Banco de dados
+*.duckdb
+
+# Dados brutos e processados (muito pesados pro GitHub)
+01-bronze/
+02-silver/
+03-gold/
+
+# Superset
+superset_home/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
