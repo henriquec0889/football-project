@@ -124,5 +124,5 @@ docker-compose up -d
 ## 👤 Autor
 
 **Henrique Cardoso**
-- LinkedIn: [linkedin.com/in/henrique-cardoso-ba816836a](https://linkedin.com/in/henrique-cardoso-ba816836a)
+- LinkedIn: [linkedin.com/in/henrique-cardoso-ba816836a](https://linkedin.com/in/henrique-cardoso98)
 - GitHub: [github.com/henriquec0889](https://github.com/henriquec0889)
